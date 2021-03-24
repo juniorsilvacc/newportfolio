@@ -10,6 +10,11 @@ class Header extends Component{
                             <h2>Olá! Eu sou</h2>
                             <h1>Júnior Silva</h1>
                             <h3>Estudante e Desenvolvedor</h3>
+                            <div className="icons">
+                              <i className="fab fa-linkedin fab_fa"></i>
+                              <i className="fab fa-github fab_fa"></i>
+                              <i className="fab fa-gitlab fab_fa"></i>
+                            </div>
                     </div>
                 </div>
             </div>
