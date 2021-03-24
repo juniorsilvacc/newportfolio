@@ -1,0 +1,33 @@
+:root{
+  --color-primary:  rgb(110, 94, 254);;
+  --color-secondary: #e1e1e6;
+  --color-background: #121214;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container{
+  height: 100vh;
+  max-width: 992px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+@media(max-width: 1100px){
+  html{
+    font-size: 93.75%;
+  }
+}
+
+@media (max-width: 720px){
+  html{
+    font-size: 87.5%;
+  }
+}
