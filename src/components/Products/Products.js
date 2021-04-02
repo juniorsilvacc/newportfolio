@@ -8,7 +8,7 @@ class Products extends Component {
       <div className="product">
         <div className="container">
           <div className="products">
-            <h1>Porftfólio</h1>
+            <h1>Portfólio</h1>
             <div className="product-boxs">
               <img src="/Img/box01.png" />
               <img src="/Img/box01.png" />

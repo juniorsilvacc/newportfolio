@@ -25,7 +25,7 @@
 .product-boxs{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap:30px;
+  gap: 30px;
 }
 
 @media (max-width: 720px){

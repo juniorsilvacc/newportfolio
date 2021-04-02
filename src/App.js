@@ -3,6 +3,7 @@ import Navbar from './components/Nav/Navbar';
 import Header from './components/Header/Header';
 import About from './components/About/About';
 import Products from './components/Products/Products';
+import Contact from './components/Contact/Contact';
 
 import './App.css';
 
@@ -13,6 +14,7 @@ function App() {
       <Header></Header>
       <About></About>
       <Products></Products>
+      <Contact></Contact>
     </div>
   );
 }
